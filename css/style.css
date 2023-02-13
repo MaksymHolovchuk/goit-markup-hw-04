@@ -221,6 +221,7 @@ box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px
     height: 112px;
     margin-bottom: 8px;
     background-color: var(--pre-color);
+    border-radius: 4px;
 }
 
 .about-title {
@@ -407,13 +408,14 @@ text-transform: uppercase;
 color: var(--another-color);
 }
 
+.footer-info {margin-right: 120px;}
+
 
 .footer-text { 
 width: 264px;
 line-height: 1.5;
 letter-spacing: 0.02em; 
 margin-top: 16px;
-margin-right: 120px;
 color: var(--after-color);
 }
 
